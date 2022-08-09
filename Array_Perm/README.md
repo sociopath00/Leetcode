@@ -29,3 +29,11 @@ A zero-based permutation nums is an array of distinct integers from 0 to nums.le
     0 <= nums[i] < nums.length
     The elements in nums are distinct.
  
+
+# Solution:
+### Solution 1:
+- Method Name:      buildArray()
+- Approach:         Euclid's Division Algorithm
+- Runtime:          3 ms
+- Memory:           52.7 MB
+- Time Complexity:  O(n)
